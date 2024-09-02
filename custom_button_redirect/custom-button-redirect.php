@@ -1,6 +1,6 @@
 <?php
 /*
-* Plugin Name: Botão Temporizador
+ * Plugin Name: Botão Temporizador
  * Plugin URI: https://luisborges.dev/
  * Description: Plugin para criar um botão personalizável que redireciona após um tempo definido.
  * Version: 1.0
