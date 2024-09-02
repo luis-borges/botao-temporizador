@@ -24,20 +24,21 @@ Acesse o painel do WordPress, vá até Plugins > Adicionar Novo e faça o upload
 ### 3. Ativação
 No painel do WordPress, vá até Plugins e ative o Custom Button Redirect Estratégia.
 
-Como Usar
-1. Adicionar o Módulo
+## Como Usar
+### 1. Adicionar o Módulo
 No editor Divi, adicione uma nova seção ou linha e escolha o módulo Botão Temporizador Estratégia.
 
-2. Configuração do Botão
+### 2. Configuração do Botão
 Texto do Botão: Insira o texto que deseja exibir no botão.
 URL do Botão: Defina a URL para onde o usuário será redirecionado.
 Cor de Fundo: Escolha a cor de fundo do botão.
 Imagem do Botão: Faça upload de uma imagem para exibir ao lado do texto do botão.
 Tempo de Redirecionamento: Defina o tempo em segundos antes do redirecionamento.
-3. Publicação
+
+### 3. Publicação
 Configure o módulo conforme desejado e publique a página para que o botão esteja ativo.
 
-Estrutura do Código
+## Estrutura do Código
 Classe Principal: Custom_Button_Redirect_Module
 Define o módulo, campos e funcionalidades principais.
 Método init: Configura as propriedades básicas do módulo.
