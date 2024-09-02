@@ -1,11 +1,11 @@
 <?php
 /*
-* Plugin Name: Botão Temporizador Estratégia
- * Plugin URI: http://www.estrategiaconcursos.com.br
-* Description: Plugin para criar um botão personalizável que redireciona após um tempo definido.
+* Plugin Name: Botão Temporizador
+ * Plugin URI: https://luisborges.dev/
+ * Description: Plugin para criar um botão personalizável que redireciona após um tempo definido.
  * Version: 1.0
  * Author: Luis Borges
- * Author URI: http://www.estrategiaconcursos.com.br
+ * Author URI: https://luisborges.dev/
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
