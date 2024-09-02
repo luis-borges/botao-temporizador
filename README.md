@@ -47,5 +47,6 @@ Método render: Gera o HTML do botão com base nos parâmetros fornecidos.
 Contribuição
 Sinta-se à vontade para abrir um pull request ou enviar issues para melhorias ou correções.
 
-Licença
-Este projeto está licenciado sob a MIT License.
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
