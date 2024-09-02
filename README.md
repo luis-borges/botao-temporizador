@@ -1,4 +1,4 @@
-# Custom Button Redirect
+# Custom Button Redirect - Botão Temporizador
 
 **Custom Button Redirect** é um módulo personalizado para o tema Divi no WordPress, que permite a criação de botões personalizáveis com temporizador de redirecionamento. O botão pode ser configurado para incluir texto, URL, cor de fundo, imagem e um tempo específico de redirecionamento.
 
